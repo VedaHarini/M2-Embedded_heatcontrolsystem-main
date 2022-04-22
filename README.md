@@ -9,3 +9,5 @@
 [![Build_CI - Linux](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/Linux.yml/badge.svg)](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/Linux.yml)
 
 [![Bulid CI - windows](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/windows.yml/badge.svg)](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/windows.yml)
+
+[![Git Inspector](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/VedaHarini/M2-Embedded_heatcontrolsystem-main/actions/workflows/Gitinspector.yml)
